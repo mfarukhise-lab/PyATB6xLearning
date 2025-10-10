@@ -1,0 +1,5 @@
+print("Promod",123,"Amit","John","Jeff", "Chris",sep='*',end="_")
+print("Promod",123,"Amit","John","Jeff", "Chris", sep='*',end="--")
+print("Promod",123,"Amit","John","Jeff", "Chris", sep='*',end=" ")
+print("Promod",123,"Amit","John","Jeff", "Chris", sep='*',end="\n")
+print("Promod",123,"Amit","John","Jeff", "Chris", sep='*',end=" ")
