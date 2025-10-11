@@ -1,0 +1,1 @@
+print("Muddasar","Farukhi","Chris",sep="-")
